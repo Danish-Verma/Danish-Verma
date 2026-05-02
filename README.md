@@ -1,16 +1,15 @@
-## Hi there 👋
+# Danish Verma
 
-<!--
-**Danish-Verma/Danish-Verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Catastrophe Risk Analytics | Model Evaluation | Exposure & Portfolio Intelligence  
 
-Here are some ideas to get you started:
+I am a catastrophe risk professional with 8+ years of experience across vendor,
+captive insurance, catastrophe model development, and insuretech environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on:
+- Exposure quality and structure
+- Interpretation of catastrophe model outputs
+- Loss driver analysis and portfolio diagnostics
+- Bridging technical model behavior with underwriting decisions
+
+This GitHub profile contains detailed case studies, project explanations,
+and research-oriented notes that complement my resume.
