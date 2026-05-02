@@ -1,15 +1,16 @@
 # Danish Verma
 
-Catastrophe Risk Analytics | Model Evaluation | Exposure & Portfolio Intelligence  
+Catastrophe Risk Analytics | Model Evaluation | Exposure & Portfolio Intelligence
 
-I am a catastrophe risk professional with 8+ years of experience across vendor,
-captive insurance, catastrophe model development, and insuretech environments.
+I am a catastrophe risk professional with 8+ years of experience across vendor delivery,
+captive insurance, catastrophe model development, and insuretech consulting environments.
 
 My work focuses on:
 - Exposure quality and structure
 - Interpretation of catastrophe model outputs
-- Loss driver analysis and portfolio diagnostics
-- Bridging technical model behavior with underwriting decisions
+- Loss driver and portfolio diagnostics
+- Vendor model evaluation and validation
+- Bridging technical modelling with underwriting and portfolio decisions
 
-This GitHub profile contains detailed case studies, project explanations,
-and research-oriented notes that complement my resume.
+This repository contains detailed explanations of my work across Xceedance,
+Verisk, Chubb, and WNS, along with selected project case studies and research notes.
